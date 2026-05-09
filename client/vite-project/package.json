@@ -16,7 +16,7 @@
     "@tailwindcss/vite": "^4.1.12",
     "axios": "^1.11.0",
     "lucide-react": "^0.541.0",
-    "quill": "^2.0.3",
+    "quill": "^2.0.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-hook-form": "^7.65.0",
