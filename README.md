@@ -169,6 +169,13 @@ Full Stack
 
 ---
 
+<img width="1905" height="917" alt="image" src="https://github.com/user-attachments/assets/2c18503d-8d97-4a11-9530-cc6b7915ff4b" />
+<img width="1906" height="911" alt="image" src="https://github.com/user-attachments/assets/db53e942-5db3-4ed6-bcc6-0097b8fb454b" />
+<img width="1909" height="924" alt="image" src="https://github.com/user-attachments/assets/eb1b4c76-93a6-4aeb-92ef-73492c2068e9" />
+
+
+
+
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub — it helps a lot!
