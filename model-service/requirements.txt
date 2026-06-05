@@ -1,13 +1,5 @@
 fastapi
 uvicorn
-joblib
-spacy
-scikit-learn
 pydantic
 google-generativeai
 python-dotenv
-deepface
-opencv-python
-fer
-tensorflow
-mtcnn
