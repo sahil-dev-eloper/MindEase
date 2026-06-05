@@ -5,7 +5,7 @@ spacy
 scikit-learn
 pydantic
 google-generativeai
-dotenv
+python-dotenv
 deepface
 opencv-python
 fer
